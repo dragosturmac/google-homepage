@@ -1,0 +1,9 @@
+.container {
+    position: relative;
+}
+
+img {
+	margin: auto;
+	display: block;
+	padding: auto;
+}
